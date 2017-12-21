@@ -1,2 +1,2 @@
 # vue_swiper_demo
-### 感谢https://github.com/zhengjiaqi/vue-light-swiper
+### 感谢  https://github.com/zhengjiaqi/vue-light-swiper
